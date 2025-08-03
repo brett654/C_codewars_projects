@@ -3,3 +3,6 @@ Codewars projets in C that I'll do in order to improve in the langue. My main go
 To run a program just type "make [project_name]"
 
 Eg: make make_the_deadfish_swim 
+
+TODO:
+    change make to cmake
