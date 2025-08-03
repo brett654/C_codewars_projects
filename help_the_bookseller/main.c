@@ -55,18 +55,26 @@ char* stockSummary(
 }
 
 char* format_summary(const struct Summary* summaries, size_t n_categories) {
-    size_t buffer_size = n_categories * 10 + 1;
+    size_t buffer_size = n_categories * 20 + 1;  // Allow more space per entry
     char* result = malloc(buffer_size);
     if (!result) return NULL;
 
-    char* ptr = result;
     size_t pos = 0;
 
     for (size_t i = 0; i < n_categories; i++) {
+        // Write the separator only after the first element
         if (i > 0) {
-            pos += sprintf(ptr + pos, " - ");
+            int written = snprintf(result + pos, buffer_size - pos, " - ");
+            if (written < 0 || (size_t)written >= buffer_size - pos) break;  // Buffer full
+            pos += written;
         }
-        pos += sprintf(ptr + pos, "(%c : %u)", summaries[i].letter, summaries[i].quantity);
+
+        int written = snprintf(
+            result + pos, buffer_size - pos, "(%c : %u)",
+            summaries[i].letter, summaries[i].quantity
+        );
+        if (written < 0 || (size_t)written >= buffer_size - pos) break;  // Buffer full
+        pos += written;
     }
 
     return result;
