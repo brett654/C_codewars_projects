@@ -1,0 +1,28 @@
+# ninja log v6
+21	226	7764656579207355	C:/Users/dell/OneDrive/Documents/Code/C Projects/C_codewars_projects/build/CMakeFiles/show_help	94020fbca803f07e
+12	61	7764654095773896	C:/Users/dell/OneDrive/Documents/Code/C Projects/C_codewars_projects/build/CMakeFiles/run_help_the_bookseller	825f1d357e3215a2
+141	257	7764648486678419	bin/hosts_in_subnet.exe	e54b5373012af9e0
+11	64	7764654066247566	C:/Users/dell/OneDrive/Documents/Code/C Projects/C_codewars_projects/build/CMakeFiles/run_make_the_deadfish_swim	42ac9aae3ec02df3
+14	72	7764654116330552	CMakeFiles/run_hosts_in_subnet	5599cd2e3ed10da3
+124	245	7764652384636214	bin/decode_the_morse_code.exe	882b59408fc6f173
+11	64	7764654066247566	CMakeFiles/run_make_the_deadfish_swim	42ac9aae3ec02df3
+12	60	7764654078279375	C:/Users/dell/OneDrive/Documents/Code/C Projects/C_codewars_projects/build/CMakeFiles/run_decode_the_morse_code	a4253fc4dc4b8593
+12	195	7764656849570442	build.ninja	944df00ccb06fabd
+14	72	7764654116330552	C:/Users/dell/OneDrive/Documents/Code/C Projects/C_codewars_projects/build/CMakeFiles/run_hosts_in_subnet	5599cd2e3ed10da3
+12	60	7764654078279375	CMakeFiles/run_decode_the_morse_code	a4253fc4dc4b8593
+247	411	7764645274426440	help_the_bookseller/help_the_bookseller.exe	8be7518bb0bee173
+12	61	7764654095773896	CMakeFiles/run_help_the_bookseller	825f1d357e3215a2
+22	91	7764655787993602	CMakeFiles/list_projects	4ab899ec8c8cc39a
+10	140	7764648485349093	hosts_in_subnet/CMakeFiles/hosts_in_subnet.dir/main.c.obj	7e9036d962612f11
+10	115	7764652263246361	make_the_deadfish_swim/CMakeFiles/make_the_deadfish_swim.dir/main.c.obj	44b462e8a71ba664
+21	226	7764656579207355	CMakeFiles/show_help	94020fbca803f07e
+17	123	7764652383419815	decode_the_morse_code/CMakeFiles/decode_the_morse_code.dir/main.c.obj	3ba07963d09e7860
+22	91	7764655787993602	C:/Users/dell/OneDrive/Documents/Code/C Projects/C_codewars_projects/build/CMakeFiles/list_projects	4ab899ec8c8cc39a
+20	241	7764645272138330	help_the_bookseller/CMakeFiles/help_the_bookseller.dir/main.c.obj	26b0de167be885e6
+115	240	7764652264220933	bin/make_the_deadfish_swim.exe	ea723b63f8f4ba2
+22	141	7764647695180396	bin/help_the_bookseller.exe	2fd778292aa031d3
+13	198	7764656849570442	build.ninja	944df00ccb06fabd
+21	156	7764656850143773	CMakeFiles/show_help	983fdad7399369aa
+21	156	7764656850143773	C:/Users/dell/OneDrive/Documents/Code/C Projects/C_codewars_projects/build/CMakeFiles/show_help	983fdad7399369aa
+13	75	7764656893370157	CMakeFiles/run_hosts_in_subnet	5599cd2e3ed10da3
+13	75	7764656893370157	C:/Users/dell/OneDrive/Documents/Code/C Projects/C_codewars_projects/build/CMakeFiles/run_hosts_in_subnet	5599cd2e3ed10da3

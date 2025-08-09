@@ -55,7 +55,7 @@ char* stockSummary(
 }
 
 char* format_summary(const struct Summary* summaries, size_t n_categories) {
-    size_t buffer_size = n_categories * 20 + 1;  // Allow more space per entry
+    size_t buffer_size = n_categories * 20 + 1;
     char* result = malloc(buffer_size);
     if (!result) return NULL;
 
