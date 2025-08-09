@@ -26,3 +26,11 @@
 21	156	7764656850143773	C:/Users/dell/OneDrive/Documents/Code/C Projects/C_codewars_projects/build/CMakeFiles/show_help	983fdad7399369aa
 13	75	7764656893370157	CMakeFiles/run_hosts_in_subnet	5599cd2e3ed10da3
 13	75	7764656893370157	C:/Users/dell/OneDrive/Documents/Code/C Projects/C_codewars_projects/build/CMakeFiles/run_hosts_in_subnet	5599cd2e3ed10da3
+12	107	7764658918552466	decode_the_morse_code/CMakeFiles/decode_the_morse_code.dir/main.c.obj	3ba07963d09e7860
+108	234	7764658919492767	bin/decode_the_morse_code.exe	882b59408fc6f173
+234	312	7764658920711329	CMakeFiles/run_decode_the_morse_code	a4253fc4dc4b8593
+234	312	7764658920711329	C:/Users/dell/OneDrive/Documents/Code/C Projects/C_codewars_projects/build/CMakeFiles/run_decode_the_morse_code	a4253fc4dc4b8593
+4	132	7764659372510541	help_the_bookseller/CMakeFiles/help_the_bookseller.dir/main.c.obj	26b0de167be885e6
+133	260	7764659373801290	bin/help_the_bookseller.exe	2fd778292aa031d3
+261	339	7764659375075481	CMakeFiles/run_help_the_bookseller	825f1d357e3215a2
+261	339	7764659375075481	C:/Users/dell/OneDrive/Documents/Code/C Projects/C_codewars_projects/build/CMakeFiles/run_help_the_bookseller	825f1d357e3215a2
