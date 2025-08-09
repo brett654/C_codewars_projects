@@ -28,6 +28,5 @@ endforeach()
 add_custom_target(show_help
     COMMAND ${CMAKE_COMMAND} -E echo "Usage:"
     COMMAND ${CMAKE_COMMAND} -E echo "  cmake --build build --target run_<project>   # Build and run a project"
-    COMMAND ${CMAKE_COMMAND} -E echo "  cmake --build build --target list_projects   # List all projects"
     COMMAND ${CMAKE_COMMAND} -E echo "  cmake --build build --target help            # Show this help"
 )
