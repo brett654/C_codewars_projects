@@ -7,5 +7,8 @@ make_the_deadfish_swim:
 decode_the_morse_code:
 	powershell -ExecutionPolicy Bypass -File run.ps1 decode_the_morse_code
 
+hosts_in_subnet:
+	powershell -ExecutionPolicy Bypass -File run.ps1 hosts_in_subnet	
+
 clean:
 	powershell -ExecutionPolicy Bypass -File run.ps1 clean_all
